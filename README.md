@@ -1,6 +1,13 @@
-# Wrap Console Log
+# Wrap Console Log (Fork)
 
 This extension wraps the word near your cursor and replaces it as an argument for `console.log`.
+
+## Fork edits
+
+Adds detection for full variable reference
+
+![demo](images/wrap-console-log-fix.gif)
+
 
 ## Key features
 

@@ -1,13 +1,13 @@
 {
-    "name": "vscode-wrap-console-log",
-    "displayName": "Wrap Console Log",
+    "name": "arcuo-vscode-wrap-console-log",
+    "displayName": "Wrap Console Log (Fork)",
     "description": "Wrap to console.log by word or selection",
     "repository": {
         "type": "git",
         "url": "https://github.com/midnightsyntax/vscode-wrap-console-log"
     },
-    "version": "1.7.3",
-    "publisher": "midnightsyntax",
+    "version": "1.8.0",
+    "publisher": "arcuo",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.5.0"
